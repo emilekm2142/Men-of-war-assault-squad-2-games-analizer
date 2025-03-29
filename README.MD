@@ -10,9 +10,10 @@ ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
+# Wyniki na dzień: 2025-03-29 12:27:25
 [(datetime.datetime(2024, 9, 25, 0, 1, 35), 2963), (datetime.datetime(2024, 9, 25, 18, 12, 57), 4844), (datetime.datetime(2024, 9, 25, 19, 16, 21), 3495), (datetime.datetime(2024, 9, 25, 20, 15, 14), 3105), (datetime.datetime(2024, 9, 25, 22, 49, 27), 4027), (datetime.datetime(2024, 9, 26, 16, 14, 45), 3440), (datetime.datetime(2024, 9, 26, 16, 44, 27), 1309), (datetime.datetime(2024, 9, 26, 17, 34, 3), 2573), (datetime.datetime(2024, 9, 26, 19, 5, 28), 4316), (datetime.datetime(2024, 9, 26, 22, 57, 41), 2532), (datetime.datetime(2024, 9, 27, 18, 35, 17), 2133), (datetime.datetime(2024, 9, 28, 1, 27, 33), 2250), (datetime.datetime(2024, 9, 28, 2, 24, 12), 2518), (datetime.datetime(2024, 9, 29, 0, 44, 57), 3726), (datetime.datetime(2024, 10, 3, 20, 45, 6), 4788), (datetime.datetime(2024, 10, 3, 22, 19, 5), 4131), (datetime.datetime(2024, 10, 3, 23, 6, 13), 1978), (datetime.datetime(2024, 10, 5, 23, 20, 54), 3076), (datetime.datetime(2024, 10, 6, 19, 10, 37), 2255), (datetime.datetime(2024, 10, 6, 19, 43, 59), 1280), (datetime.datetime(2024, 10, 6, 20, 45, 44), 2847), (datetime.datetime(2024, 10, 10, 23, 52, 33), 3859), (datetime.datetime(2024, 11, 2, 0, 25, 51), 2866), (datetime.datetime(2024, 11, 6, 22, 46, 50), 2524), (datetime.datetime(2024, 11, 6, 23, 54, 39), 3247), (datetime.datetime(2024, 11, 7, 20, 10, 58), 2734), (datetime.datetime(2024, 11, 16, 14, 2, 6), 1492), (datetime.datetime(2024, 11, 17, 16, 0, 9), 3399), (datetime.datetime(2024, 11, 17, 16, 45, 57), 1847), (datetime.datetime(2024, 11, 22, 19, 0, 27), 2230), (datetime.datetime(2025, 2, 27, 13, 23, 25), 1614), (datetime.datetime(2025, 2, 27, 23, 48, 4), 2202), (datetime.datetime(2025, 2, 28, 0, 28, 58), 1632), (datetime.datetime(2025, 2, 28, 14, 1, 49), 2740), (datetime.datetime(2025, 2, 28, 14, 53, 39), 2690), (datetime.datetime(2025, 3, 3, 22, 51, 51), 4295), (datetime.datetime(2025, 3, 4, 21, 52, 38), 2126), (datetime.datetime(2025, 3, 5, 22, 37, 54), 2774), (datetime.datetime(2025, 3, 5, 23, 54, 15), 1578), (datetime.datetime(2025, 3, 6, 20, 46, 50), 3863), (datetime.datetime(2025, 3, 7, 1, 0, 55), 3007), (datetime.datetime(2025, 3, 9, 15, 26, 25), 1938), (datetime.datetime(2025, 3, 13, 12, 12, 24), 2035), (datetime.datetime(2025, 3, 13, 13, 25, 55), 3833), (datetime.datetime(2025, 3, 15, 13, 3, 2), 2092), (datetime.datetime(2025, 3, 16, 22, 18, 18), 2008), (datetime.datetime(2025, 3, 16, 23, 51, 25), 3612), (datetime.datetime(2025, 3, 17, 21, 11, 38), 2870), (datetime.datetime(2025, 3, 23, 15, 38, 36), 3206), (datetime.datetime(2025, 3, 23, 21, 24, 12), 2957), (datetime.datetime(2025, 3, 24, 23, 41, 11), 2092), (datetime.datetime(2025, 3, 25, 22, 50, 51), 2007), (datetime.datetime(2025, 3, 26, 19, 58, 45), 3380), (datetime.datetime(2025, 3, 26, 23, 12, 13), 2305), (datetime.datetime(2025, 3, 27, 23, 35, 52), 3359)]
-defaultdict(<function GameDatasetAnalizer.get_games_count_by_player.<locals>.<lambda> at 0x000002757EE48B80>, {'Frifol': 27, 'Emile': 53, 'Skurvysyn': 17, 'Mistyczny': 18, 'WhiteGrayFox': 25, 'Gustaw': 40, 'Blyatorusin': 18, 'W3bst3r': 30, 'Cheron': 26, 'Grawr': 15, 'Sliwek': 1})
-defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<lambda> at 0x000002757EE48B80>, {'ger': 30, 'jap': 33, 'rus_guard': 27, 'ger2': 18, 'rus': 40, 'eng': 26, 'usa': 23, 'ger_ss': 73})
+defaultdict(<function GameDatasetAnalizer.get_games_count_by_player.<locals>.<lambda> at 0x000001F2A78E9300>, {'Frifol': 27, 'Emile': 53, 'Dobrogost': 32, 'Mistyczny': 18, 'WhiteGrayFox': 25, 'Gustaw': 40, 'Blyatorusin': 18, 'W3bst3r': 30, 'Cheron': 26, 'Sliwek': 1})
+defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<lambda> at 0x000001F2A78E9300>, {'ger': 30, 'jap': 33, 'rus_guard': 27, 'ger2': 18, 'rus': 40, 'eng': 26, 'usa': 23, 'ger_ss': 73})
 0. Jagdpanzer 38(t) Hetzer - 98
 1. 75mm Type 4 'Elite' - 59
 2. Jagdpanzer V Jagdpanther [Veteran] - 38
@@ -405,7 +406,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 389. Churchill Mk.IX - 0
 390. M3A1 Scout car - 0
 391. StuIG 33B - 0
-     -------INFANTRY KILLS------------
+
+## INFANTRY KILLS
+
 1. SVT-40 - 652 (34 suicide chargers)
 2. MG42 Lafette - 543 (46 suicide chargers)
 3. M5A1 - 518 (8 suicide chargers)
@@ -588,7 +591,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 180. SdKfz 303 'Goliath' - 0 (0 suicide chargers)
 181. BT-7 - 0 (0 suicide chargers)
 182. T15 75mm GMC - 0 (0 suicide chargers)
-     -------DEADS---------
+
+## -------DEADS---------
+
 1. assault SMG infantry - 4163
 2. tank crew - 2972
 3. Support crew - 2660
@@ -1767,7 +1772,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 1176. Bruno Schlosser - 1
 1177. Gebhard Lowenthal - 1
 1178. Ernst Schluter - 1
-      -------DEADS VEHICLES---------
+
+## -------DEADS VEHICLES---------
+
 1. SdKfz 251/1 - 136
 2. M5A1 - 115
 3. Ha-Go - 113
@@ -1901,7 +1908,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 131. Universal-1j - 1
 132. Churchill Mk.IX - 1
 133. T-60< - 1
-     ---CO ZABIJAŁO SUICIDE---
+
+## ---CO ZABIJAŁO SUICIDE---
+
 1. StG 44 - 184
 2. explode - 166
 3. MG 42 - 157
@@ -2047,7 +2056,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 143. IS-1 [Guards] - 1
 144. SdKfz 222 - 1
 145. PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' [Ace] - 1
-     ---CO ZABIJAŁO ASSAULT SMG---
+
+## ---CO ZABIJAŁO ASSAULT SMG---
+
 1. MG 42 - 424
 2. StG 44 - 351
 3. explode - 215
@@ -2273,7 +2284,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 223. Comet I (A34) 'Elite gunner' - 1
 224. SU-100 - 1
 225. 7.5cm PaK 40 - 1
-     ----MG42 LAFETTE - KILLS ---
+
+## ----MG42 LAFETTE - KILLS ---
+
 1. assault SMG infantry - 73
 2. rifleman - 58
 3. Support crew - 55
@@ -2396,7 +2409,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 120. SS-Panzergrenadier Gruppenf - 1
 121. SS-Panzergrenadier MG asst. - 1
 122. Sd.Kfz. 250/1 - 1
-     ----SMG-100 & SMG-100-44 - KILLS---
+
+## ----SMG-100 & SMG-100-44 - KILLS---
+
 1. assault SMG infantry - 17
 2. Suicide charger - 12
 3. Sturmgrenadier - 12
@@ -2466,7 +2481,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 67. SS-Gebirgsjager MG asst. - 1
 68. SS-Gebirgsjager - 1
 69. Commando machine gunner asst. - 1
-    ----SUICIDE PISTOLS - KILLS---
+
+## ----SUICIDE PISTOLS - KILLS---
+
 1. rifleman - 17
 2. Suicide charger - 15
 3. assault SMG infantry - 11
@@ -2518,7 +2535,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 49. tank commander - 1
 50. Panzergrenadier pioneer MG asst. - 1
 51. Commando - 1
-    --KTO STRACIŁ NAJWIĘCEJ SUICIDE--
+
+## --KTO STRACIŁ NAJWIĘCEJ SUICIDE--
+
 1. Emile - 1412
 2. W3bst3r - 459
 3. Skurvysyn - 115
@@ -2527,7 +2546,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 6. Blyatorusin - 30
 7. Frifol - 29
 8. Cheron - 15
-   --KTO STRACIŁ NAJWIĘCEJ TANK CREW--
+
+## --KTO STRACIŁ NAJWIĘCEJ TANK CREW--
+
 1. Gustaw - 599
 2. Cheron - 377
 3. W3bst3r - 351
@@ -2539,7 +2560,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 9. Grawr - 132
 10. Blyatorusin - 97
 11. Sliwek - 4
-    --KTO STRACIŁ NAJWIĘCEJ POJAZDÓW--
+
+## --KTO STRACIŁ NAJWIĘCEJ POJAZDÓW--
+
 1. Gustaw - 297
 2. Frifol - 204
 3. Emile - 198
@@ -2553,7 +2576,9 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 11. neutral - 23
 12. Sliwek - 4
 13. enemy - 1
-    --Jakie pojazdy tracił CHERON--
+
+## --Jakie pojazdy tracił CHERON--
+
 1. T-34-76 mod. 1943 - 12
 2. PzKpfw IV Ausf.  - 11
 3. M5A1 - 8
@@ -2590,187 +2615,104 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 34. SdKfz 234 Puma - 1
 35. PzKpfw III Ausf.  - 1
 36. Churchill Mk.IX - 1
-    ---Games with Cheron---
-    replays\replay5_SS.zip
-    ----Martwe pojazdy na grę na gracza----
+
+## ---Games with Cheron---
+
+replays\replay5_SS.zip
+
+## ----Martwe pojazdy na grę na gracza----
+
 1. Frifol - 7.555555555555555
 2. Gustaw - 7.425
-3. Skurvysyn - 6.9411764705882355
-4. W3bst3r - 6.266666666666667
-5. Mistyczny - 6.0
-6. WhiteGrayFox - 5.44
-7. Grawr - 5.066666666666666
-8. Sliwek - 4.0
-9. Blyatorusin - 4.0
-10. Emile - 3.7358490566037736
-11. Cheron - 3.576923076923077
-    ----Zabite pojazdy na grę na gracza----
+3. W3bst3r - 6.266666666666667
+4. Mistyczny - 6.0
+5. WhiteGrayFox - 5.44
+6. Sliwek - 4.0
+7. Blyatorusin - 4.0
+8. Emile - 3.7358490566037736
+9. Cheron - 3.576923076923077
+10. Dobrogost - 0
+
+## ----Zabite pojazdy na grę na gracza----
+
 1. Emile - 7.452830188679245
 2. Blyatorusin - 6.666666666666667
 3. WhiteGrayFox - 6.6
 4. Mistyczny - 5.444444444444445
 5. Cheron - 5.0769230769230775
-6. Skurvysyn - 5.0588235294117645
-7. Grawr - 4.866666666666666
-8. Frifol - 4.851851851851851
-9. Gustaw - 4.6
-10. W3bst3r - 4.366666666666666
-11. Sliwek - 0
-    ----Liczba gier---
+6. Frifol - 4.851851851851851
+7. Gustaw - 4.6
+8. W3bst3r - 4.366666666666666
+9. Dobrogost - 0
+10. Sliwek - 0
+
+## ----Liczba gier---
+
 1. 2v2 - 33
 2. 3v3 - 19
 3. 4v4 - 3
-   ---Długość gier---
-   Avg. :46.127272727272725
-   49
-   80
-   58
-   51
-   67
-   57
-   21
-   42
-   71
-   42
-   35
-   37
-   41
-   62
-   79
-   68
-   32
-   51
-   37
-   21
-   47
-   64
-   47
-   42
-   54
-   45
-   24
-   56
-   30
-   37
-   26
-   36
-   27
-   45
-   44
-   71
-   35
-   46
-   26
-   64
-   50
-   32
-   33
-   63
-   34
-   33
-   60
-   47
-   53
-   49
-   34
-   33
-   56
-   38
-   55
-   ['Emile', 'Jagdpanzer 38(t) Hetzer', 'Cheron', 'PzKpfw IV Ausf. ']
-   ['Skurvysyn', "Sd.Kfz 251/1 Wurfrahmen 40 'Stuka zu fuss'", 'Cheron', 'PzKpfw IV Ausf. ']
-   ['Skurvysyn', 'Pzkpfw VI Tiger Ausf. E [Veteran]', 'Cheron', 'PzKpfw IV Ausf. ']
-   ['WhiteGrayFox', 'T-70 [Guards]', 'Cheron', 'Chi-Ha 47']
-   ['Emile', 'Jagdpanzer IV L/70', 'Cheron', 'Chi-To']
-   ['Mistyczny', 'M5A1', 'Cheron', 'Vickers .303 Mk.IV']
-   ['WhiteGrayFox', 'Humber Mk.II', 'Cheron', 'M5A1']
-   ['Mistyczny', 'M5A1', 'Cheron', 'Universal carrier']
-   ['Skurvysyn', 'Jagdpanzer 38(t) Hetzer', 'Cheron', 'Cruiser Mk.VIII Cromwell VI CS']
-   ['Skurvysyn', "Sturmpanzer IV 'Brummbxc3xa4r' Late production", 'Cheron', 'Churchill AVRE']
-   ['Skurvysyn', "Sturmpanzer IV 'Brummbxc3xa4r' Late production", 'Cheron', 'Crusader Mk.III']
-   ['WhiteGrayFox', 'QF 25-pdr [Veteran]', 'Cheron', 'Universal carrier']
-   ['Skurvysyn', 'MG 42', 'Cheron', 'M5A1']
-   ['Frifol', 'T-70', 'Cheron', 'Mk.VII Tetrarch']
-   ['Frifol', 'D1', 'Cheron', 'ML 3-inch Mortar Mk.II']
-   ['Frifol', 'D1', 'Cheron', 'Staghound Mk.III']
-   ['Frifol', 'SU-100', 'Cheron', 'Universal carrier']
-   ['Frifol', 'SU-100', 'Cheron', 'T-34-85 mod. 1944']
-   ['Blyatorusin', 'M3A1', 'Cheron', 'Staghound Mk.III']
-   ['WhiteGrayFox', '7.5cm Le.IG 18', 'Cheron', 'ML 3-inch Mortar Mk.II']
-   ['WhiteGrayFox', '7.5cm Le.IG 18', 'Cheron', 'M5A1']
-   ['WhiteGrayFox', '7.5cm Le.IG 18', 'Cheron', 'Universal carrier']
-   ['WhiteGrayFox', 'Jagdpanzer 38(t) Hetzer', 'Cheron', 'M5A1']
-   ['WhiteGrayFox', 'Jagdpanzer 38(t) Hetzer', 'Cheron', 'BT-7a']
-   ['WhiteGrayFox', 'Jagdpanzer 38(t) Hetzer', 'Cheron', 'T-34-85 mod. 1944']
-   ['Mistyczny', 'Comet I (A34)', 'Cheron', 'PzKpfw IV Ausf. ']
-   ['Mistyczny', 'QF 17-pdr', 'Cheron', 'PzKpfw V Panther Ausf. ']
-   ['W3bst3r', 'Ha-To', 'Cheron', 'PzKpfw VI Tiger Ausf. ']
-   ['W3bst3r', 'Chi-Ri', 'Cheron', 'SdKfz 251/1']
-   ['W3bst3r', 'Sd.Kfz. 251/10', 'Cheron', 'BT-7a']
-   ['Emile', 'Type 4 RPG', 'Cheron', 'T-34-76 mod. 1943']
-   ['W3bst3r', 'Panzerfaust 60', 'Cheron', 'T-34-76 mod. 1943']
-   ['W3bst3r', 'PzKpfw IV Ausf. J', 'Cheron', 'T-34-76 mod. 1943']
-   ['W3bst3r', 'Panzerschreck', 'Cheron', 'T-34-85 mod. 1944']
-   ['world', 'crush', 'Cheron', 'ZIS-2']
-   ['Emile', 'Chi-Ha 120', 'Cheron', 'T-34-76 mod. 1943']
-   ['W3bst3r', 'StuG III Ausf.G', 'Cheron', 'T-34-76 mod. 1943']
-   ['W3bst3r', 'Panzerfaust 30', 'Cheron', 'T-34-76 mod. 1943']
-   ['W3bst3r', 'Jagdpanzer IV L/70', 'Cheron', 'IS-1']
-   ['Gustaw', 'Jagdpanzer 38(t) Hetzer [Veteran]', 'Cheron', 'T-70 [Guards]']
-   ['Gustaw', "PzKpfw II Ausf. L 'Luchs'", 'Cheron', 'M5A1']
-   ['Gustaw', 'PzKpfw VI Tiger Ausf.E [Veteran]', 'Cheron', 'T-34-85']
-   ['Gustaw', "Panzerjxc3xa4ger Tiger Ausf. B 'Jagdtiger' [Veteran]", 'Cheron', 'IS-3']
-   ['Gustaw', 'PzKpfw VI Tiger Ausf.E [Veteran]', 'Cheron', 'M5A1']
-   ['Gustaw', 'PzKpfw VI Tiger Ausf.E [Veteran]', 'Cheron', 'Chi-Ri']
-   ['Gustaw', "Panzerjxc3xa4ger Tiger Ausf. B 'Jagdtiger' [Veteran]", 'Cheron', 'Chi-Ri']
-   ['Grawr', 'T-34-76 mod. 1943', 'Cheron', 'M3 Lee']
-   ['Gustaw', 'PzKpfw III Ausf.J', 'Cheron', 'PzKpfw II Ausf. ']
-   ['Gustaw', 'Jagdpanzer 38(t) Hetzer [Veteran]', 'Cheron', 'PzKpfw IV Ausf. ']
-   ['Emile', 'Hafthohlladung AT grenade', 'Cheron', 'PzKpfw II Ausf. ']
-   ['Gustaw', 'PzKpfw 747(r) mod.1944', 'Cheron', 'PzKpfw IV Ausf. ']
-   ['Emile', 'ZB vz.30', 'Cheron', 'Carsten Unruh']
-   ['WhiteGrayFox', "75mm Type 4 'Elite'", 'Cheron', 'PzKpfw VI Tiger Ausf. ']
-   ['WhiteGrayFox', "75mm Type 4 'Elite'", 'Cheron', 'PzKpfw IV Ausf. ']
-   ['WhiteGrayFox', "75mm Type 4 'Elite'", 'Cheron', 'PzKpfw IV Ausf. ']
-   ['WhiteGrayFox', "75mm Type 4 'Elite'", 'Cheron', 'PzKpfw II Ausf. ']
-   ['Emile', 'Jagdpanzer V Jagdpanther [Veteran]', 'Cheron', 'PzKpfw IV Ausf. ']
-   ['WhiteGrayFox', "75mm Type 4 'Elite'", 'Cheron', 'PzKpfw IV Ausf. ']
-   ['Frifol', '12.8cm PaK 44', 'Cheron', 'PzKpfw VI Tiger Ausf. ']
-   ['Frifol', '12.8cm PaK 44', 'Cheron', 'PzKpfw IV Ausf. ']
-   ['Grawr', 'Ke-Nu', 'Cheron', 'SdKfz 251/1']
-   ['Emile', 'Chi-Ri', 'Cheron', 'Pzkpfw VI Tiger Ausf. E [Veteran]-']
-   ['Emile', 'Panzerschreck', 'Cheron', 'T-70 [Guards]']
-   ['Emile', 'Jagdpanzer 38(t) Hetzer', 'Cheron', 'KV-1 [Guards]']
-   ['Emile', 'Jagdpanzer 38(t) Hetzer', 'Cheron', 'M5A1']
-   ['Emile', 'Panzerfaust 30', 'Cheron', 'KV-1 [Guards]']
-   ['Emile', 'KV-1s [Guards]', 'Cheron', 'M3 Lee']
-   ['Grawr', 'Jagdpanzer 38(t) Hetzer', 'Cheron', 'Archer']
-   ['WhiteGrayFox', '15cm sFH 18', 'Cheron', 'ML 3-inch Mortar Mk.II']
-   ['WhiteGrayFox', 'Panzerfaust 100', 'Cheron', 'Churchill AVRE']
-   ['Grawr', 'StuG IV Ausf. G', 'Cheron', 'Crusader Mk.III']
-   ['WhiteGrayFox', 'Panzerfaust 100', 'Cheron', 'Crusader Mk.III']
-   ['Blyatorusin', 'M8', 'Cheron', 'M5A1']
-   ['Mistyczny', "Flakpanzer IV 'Wirbelwind'", 'Cheron', 'T-34-76 mod. 1943']
-   ['Blyatorusin', 'M5 AT gun', 'Cheron', 'T-34-76 mod. 1943']
-   ['Blyatorusin', 'M5 AT gun', 'Cheron', 'T-34-76 mod. 1943']
-   ['Blyatorusin', 'Bazooka M1A1', 'Cheron', 'T-34-76 mod. 1943']
-   ['Mistyczny', 'PzKpfw III Ausf. N', 'Cheron', 'KV-1']
-   ['Blyatorusin', 'M4A3E2(76)W Jumbo', 'Cheron', 'T-34-76 mod. 1943']
-   ['Blyatorusin', 'M26 Pershing [Veteran]', 'Cheron', 'IS-1']
-   ['Blyatorusin', 'M4A3E2(76)W Jumbo', 'Cheron', 'T-34-76 mod. 1943']
-   ['Blyatorusin', 'M4A3E8(76)W Sherman', 'Cheron', 'T-34-85 [Veteran]']
-   ['Gustaw', 'T-70 [Guards]', 'Cheron', 'SdKfz 234 Puma']
-   ['Gustaw', 'ZIS-2 [Guards]', 'Cheron', 'PzKpfw III Ausf. ']
-   ['Gustaw', "IS-2 mod. 1944 'Elite' [Guards]", 'Cheron', 'PzKpfw VI Tiger Ausf. ']
-   ['Gustaw', "IS-2 mod. 1944 'Elite' [Guards]", 'Cheron', 'PzKpfw II Ausf. ']
-   ['Blyatorusin', '7.5cm PaK 40', 'Cheron', 'PzKpfw II Ausf. ']
-   ['W3bst3r', '5cm PaK 38', 'Cheron', 'Vickers .303 Mk.IV']
-   ['Emile', 'Panzerfaust 60', 'Cheron', 'Staghound Mk.III']
-   ['W3bst3r', 'Hafthohlladung AT grenade', 'Cheron', 'Churchill Mk.IX']
-   ['W3bst3r', 'Panzerschreck', 'Cheron', 'Churchill Mk.VIII CS']
-   ['Emile', "PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' [Veteran]", 'Cheron', 'Churchill Mk.VIII CS']
-   ['W3bst3r', "PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' [Ace]", 'Cheron', 'Churchill Mk.VIII CS']
-   ---Co zrobilo hago?---
+
+## ---Długość gier---
+
+Avg. :46.127272727272725
+49
+80
+58
+51
+67
+57
+21
+42
+71
+42
+35
+37
+41
+62
+79
+68
+32
+51
+37
+21
+47
+64
+47
+42
+54
+45
+24
+56
+30
+37
+26
+36
+27
+45
+44
+71
+35
+46
+26
+64
+50
+32
+33
+63
+34
+33
+60
+47
+53
+49
+34
+33
+56
+38
+55
+
+## ---Co zrobilo hago?---
+
 1. Support crew - 21
 2. armored rifleman - 19
 3. rifleman - 18
@@ -2894,67 +2836,65 @@ defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<l
 121. Commando machine gunner asst. - 1
 122. Commando machine gunner - 1
 123. Willys MBk - 1
-     ---Jakie teamy były grane na 2v2?---
+
+## ---Jakie teamy były grane na 2v2?---
+
 1. Emile, Gustaw - 8
 2. Emile, WhiteGrayFox - 6
-3. Emile, W3bst3r - 5
-4. Cheron, W3bst3r - 4
-5. Emile, Mistyczny - 3
-6. Emile, Frifol - 3
-7. Cheron, Frifol - 3
-8. Emile, Grawr - 3
-9. Gustaw, Mistyczny - 2
-10. Blyatorusin, Gustaw - 2
-11. Emile, Skurvysyn - 2
-12. Frifol, Gustaw - 2
-13. Cheron, Mistyczny - 2
-14. Gustaw, W3bst3r - 2
-15. Skurvysyn, WhiteGrayFox - 2
+3. Dobrogost, Emile - 5
+4. Emile, W3bst3r - 5
+5. Dobrogost, WhiteGrayFox - 4
+6. Cheron, W3bst3r - 4
+7. Emile, Mistyczny - 3
+8. Emile, Frifol - 3
+9. Cheron, Frifol - 3
+10. Dobrogost, Frifol - 2
+11. Gustaw, Mistyczny - 2
+12. Blyatorusin, Gustaw - 2
+13. Frifol, Gustaw - 2
+14. Cheron, Mistyczny - 2
+15. Gustaw, W3bst3r - 2
 16. Frifol, W3bst3r - 2
-17. Grawr, WhiteGrayFox - 2
-18. Cheron, Gustaw - 2
-19. Frifol, Skurvysyn - 1
-20. Gustaw, WhiteGrayFox - 1
-21. Mistyczny, WhiteGrayFox - 1
-22. Blyatorusin, Skurvysyn - 1
-23. Skurvysyn, W3bst3r - 1
-24. Gustaw, Skurvysyn - 1
-25. Blyatorusin, Emile - 1
-26. Blyatorusin, W3bst3r - 1
-27. Mistyczny, W3bst3r - 1
-28. Cheron, Emile - 1
-29. Frifol, Grawr - 1
+17. Cheron, Gustaw - 2
+18. Gustaw, WhiteGrayFox - 1
+19. Mistyczny, WhiteGrayFox - 1
+20. Blyatorusin, Dobrogost - 1
+21. Dobrogost, W3bst3r - 1
+22. Dobrogost, Gustaw - 1
+23. Blyatorusin, Emile - 1
+24. Blyatorusin, W3bst3r - 1
+25. Mistyczny, W3bst3r - 1
+26. Cheron, Emile - 1
 
-    ---Jakie teamy były grane na 3v3?---
+## ---Jakie teamy były grane na 3v3?---
+
 1. Blyatorusin, Cheron, Gustaw - 3
-2. Blyatorusin, W3bst3r, WhiteGrayFox - 2
-3. Frifol, Gustaw, W3bst3r - 2
-4. Emile, Frifol, Gustaw - 2
-5. Gustaw, Mistyczny, W3bst3r - 2
-6. Cheron, Emile, Gustaw - 2
-7. Emile, Grawr, WhiteGrayFox - 2
-8. Emile, Frifol, Skurvysyn - 1
-9. Emile, Skurvysyn, W3bst3r - 1
-10. Frifol, Gustaw, Mistyczny - 1
-11. Emile, Skurvysyn, WhiteGrayFox - 1
-12. Mistyczny, Skurvysyn, WhiteGrayFox - 1
-13. Cheron, Skurvysyn, WhiteGrayFox - 1
+2. Dobrogost, Emile, WhiteGrayFox - 3
+3. Blyatorusin, W3bst3r, WhiteGrayFox - 2
+4. Frifol, Gustaw, W3bst3r - 2
+5. Emile, Frifol, Gustaw - 2
+6. Dobrogost, Emile, Gustaw - 2
+7. Gustaw, Mistyczny, W3bst3r - 2
+8. Cheron, Emile, Gustaw - 2
+9. Dobrogost, Emile, Frifol - 1
+10. Dobrogost, Emile, W3bst3r - 1
+11. Frifol, Gustaw, Mistyczny - 1
+12. Dobrogost, Mistyczny, WhiteGrayFox - 1
+13. Cheron, Dobrogost, WhiteGrayFox - 1
 14. Blyatorusin, Emile, Frifol - 1
-15. Blyatorusin, Skurvysyn, WhiteGrayFox - 1
+15. Blyatorusin, Dobrogost, WhiteGrayFox - 1
 16. Emile, W3bst3r, WhiteGrayFox - 1
-17. Blyatorusin, Gustaw, Skurvysyn - 1
-18. Emile, Gustaw, Skurvysyn - 1
-19. Cheron, Emile, Frifol - 1
-20. Frifol, Mistyczny, W3bst3r - 1
-21. Blyatorusin, Gustaw, Mistyczny - 1
-22. Cheron, Emile, W3bst3r - 1
-23. Grawr, W3bst3r, WhiteGrayFox - 1
-24. Cheron, Frifol, Mistyczny - 1
-25. Emile, Grawr, Gustaw - 1
-26. Cheron, Grawr, Gustaw - 1
-27. Emile, Frifol, WhiteGrayFox - 1
-28. Blyatorusin, Frifol, Mistyczny - 1
-29. Cheron, Emile, Grawr - 1
-30. Blyatorusin, Emile, Grawr - 1
+17. Blyatorusin, Dobrogost, Gustaw - 1
+18. Cheron, Emile, Frifol - 1
+19. Frifol, Mistyczny, W3bst3r - 1
+20. Blyatorusin, Gustaw, Mistyczny - 1
+21. Cheron, Emile, W3bst3r - 1
+22. Dobrogost, W3bst3r, WhiteGrayFox - 1
+23. Cheron, Frifol, Mistyczny - 1
+24. Cheron, Dobrogost, Gustaw - 1
+25. Emile, Frifol, WhiteGrayFox - 1
+26. Blyatorusin, Frifol, Mistyczny - 1
+27. Cheron, Dobrogost, Emile - 1
+28. Blyatorusin, Dobrogost, Emile - 1
 
 Process finished with exit code 0
