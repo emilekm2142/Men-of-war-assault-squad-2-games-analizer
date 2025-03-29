@@ -1,8 +1,15 @@
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import List
+
+import matplotlib
+
 from Game import *
 import copy
+import matplotlib.pyplot as plt
+from matplotlib.dates import DateFormatter, WeekdayLocator
+import numpy as np
+from collections import Counter
 
 class GameDatasetAnalizer:
     def __init__(self, games:List[Game]):
@@ -34,6 +41,26 @@ class GameDatasetAnalizer:
         for game in self.games:
             for player in game.metadata.players:
                 counts[player.faction] += 1
+        return counts
+    def get_teams(self, players_in_team):
+        counts = defaultdict(lambda: 0)
+        for game in self.games:
+            if len(game.metadata.players) != players_in_team:
+                continue
+            team_a = set()
+            team_b = set()
+            for player in game.metadata.players:
+                if player.team == 'a':
+                    team_a.add(player.name)
+                else:
+                    team_b.add(player.name)
+            #generate ordered list of players from each team and build a string
+            team_a = sorted(list(team_a))
+            team_b = sorted(list(team_b))
+            team_a_str = ', '.join(team_a)
+            team_b_str = ', '.join(team_b)
+            counts[team_a_str]+=1
+            counts[team_b_str]+=1
         return counts
 
     def get_kills_of_units(self):
@@ -129,3 +156,45 @@ class GameDatasetAnalizer:
             value = {6: "3v3", 4:"2v2", 2:"1v1", 8:"4v4"}[count]
             res[value]+=1
         return res
+        
+    def plot_games_by_week(self):
+        matplotlib.use('TkAgg')
+        """
+        Creates a bar chart showing the frequency of games played by week.
+        """
+        # Get timestamps of all games
+        timestamps = [game.metadata.played_on_end for game in self.games]
+
+        # Convert timestamps to datetime objects
+        dates = [datetime.fromtimestamp(ts) for ts in timestamps]
+
+        # Group dates by week (starting from Monday)
+        def get_week_start(date):
+            return date - timedelta(days=date.weekday())
+
+        weeks = [get_week_start(date) for date in dates]
+        week_counts = Counter(weeks)
+
+        # Sort weeks chronologically
+        sorted_weeks = sorted(week_counts.keys())
+        counts = [week_counts[week] for week in sorted_weeks]
+
+        # Create the plot
+        plt.figure(figsize=(12, 6))
+        plt.bar(sorted_weeks, counts, width=5, align='center')  # Bar width adjusted for better spacing
+
+        # Format the x-axis to show weeks
+        date_formatter = DateFormatter('%Y-%m-%d')
+        plt.gca().xaxis.set_major_formatter(date_formatter)
+        plt.gca().xaxis.set_major_locator(WeekdayLocator(byweekday=0))  # Ticks on Mondays
+        plt.gcf().autofmt_xdate()  # Auto-format date labels
+
+        # Add labels and title
+        plt.xlabel('Week Starting')
+        plt.ylabel('Number of Games')
+        plt.title('Games Played by Week')
+        plt.grid(axis='y', linestyle='--', alpha=0.7)
+
+        # Show the plot
+        plt.tight_layout()
+        plt.show()

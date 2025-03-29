@@ -39,7 +39,7 @@ if (Test-Path -Path $replaysPath) {
         [System.IO.Compression.ZipFile]::CreateFromDirectory($mostRecentDirectory.FullName, $zipFilePath)
 
         # Define the new destination path
-        $destinationPath = "C:\Users\emile\Documents\Code\MoW_analizer\replays"
+        $destinationPath = "$HOME\Desktop"
 
         # Check if the destination directory exists
         if (-Not (Test-Path -Path $destinationPath)) {

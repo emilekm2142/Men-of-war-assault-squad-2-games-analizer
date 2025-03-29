@@ -127,3 +127,12 @@ for entry in analizer.get_raw_log():
 print("---Co zrobilo hago?---")
 hago_kills = analizer.generic_sorted(analizer.what_unit_killed("Ha-Go"))
 analizer.print_generic_collection(hago_kills)
+
+
+print("---Jakie teamy były grane na 2v2?---")
+analizer.print_generic_collection(analizer.generic_sorted(analizer.get_teams(4)))
+
+print("---Jakie teamy były grane na 3v3?---")
+analizer.print_generic_collection(analizer.generic_sorted(analizer.get_teams(6)))
+
+

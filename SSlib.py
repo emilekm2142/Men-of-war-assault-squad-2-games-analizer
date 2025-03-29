@@ -16,6 +16,7 @@ class GameMetadata:
     @property
     def all_player_names(self):
         return [p.name for p in self.players]
+
     played_on_start:int
     played_on_end:int
     mod:str
