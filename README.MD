@@ -10,7 +10,7 @@ ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
-# Wyniki na dzień: 2025-03-29 14:35:19
+# Wyniki na dzień: 2025-03-29 14:43:59
 
 ## Kieyd było grane??
 
@@ -39,6 +39,90 @@ ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
 6. eng - 26
 7. usa - 23
 8. ger2 - 18
+
+## Kto grał jakim krajem?
+
+{
+"Frifol": {
+"ger": 4,
+"rus": 14,
+"ger_ss": 3,
+"jap": 1,
+"rus_guard": 2,
+"usa": 3
+},
+"Emile": {
+"jap": 14,
+"rus": 2,
+"ger_ss": 35,
+"rus_guard": 1,
+"eng": 1
+},
+"Dobrogost": {
+"jap": 6,
+"ger2": 1,
+"rus": 9,
+"ger_ss": 9,
+"usa": 4,
+"eng": 1,
+"rus_guard": 2
+},
+"Mistyczny": {
+"rus_guard": 5,
+"ger_ss": 1,
+"ger": 3,
+"usa": 2,
+"ger2": 2,
+"rus": 3,
+"eng": 2
+},
+"WhiteGrayFox": {
+"ger2": 2,
+"eng": 5,
+"ger": 2,
+"rus_guard": 4,
+"jap": 3,
+"usa": 1,
+"rus": 2,
+"ger_ss": 6
+},
+"Gustaw": {
+"jap": 4,
+"rus": 6,
+"rus_guard": 11,
+"usa": 2,
+"eng": 6,
+"ger": 3,
+"ger_ss": 3,
+"ger2": 5
+},
+"Blyatorusin": {
+"ger2": 8,
+"jap": 1,
+"ger": 1,
+"usa": 3,
+"ger_ss": 5
+},
+"W3bst3r": {
+"ger": 12,
+"eng": 5,
+"ger_ss": 9,
+"jap": 3,
+"usa": 1
+},
+"Cheron": {
+"ger": 5,
+"jap": 1,
+"eng": 5,
+"usa": 7,
+"rus": 4,
+"rus_guard": 2,
+"ger_ss": 2
+},
+"Sliwek": {
+"eng": 1
+}
+}
 
 ## Co zabijało pojazdy?
 
@@ -3062,39 +3146,39 @@ Avg. :46.127272727272725
 
 ## ---Jakie teamy były grane na 2v2?---
 
-{'Frifol', 'Dobrogost'}
+{'Dobrogost', 'Frifol'}
 {'Gustaw', 'WhiteGrayFox'}
-{'WhiteGrayFox', 'Emile'}
-{'Gustaw', 'Emile'}
-{'Gustaw', 'Emile'}
-{'Gustaw', 'Blyatorusin'}
+{'Emile', 'WhiteGrayFox'}
+{'Emile', 'Gustaw'}
+{'Emile', 'Gustaw'}
+{'Blyatorusin', 'Gustaw'}
 {'Gustaw', 'Frifol'}
-{'Mistyczny', 'Cheron'}
-{'Gustaw', 'W3bst3r'}
+{'Cheron', 'Mistyczny'}
+{'W3bst3r', 'Gustaw'}
 {'Dobrogost', 'W3bst3r'}
-{'Frifol', 'Emile'}
+{'Emile', 'Frifol'}
 {'Emile', 'W3bst3r'}
 {'Gustaw', 'Frifol'}
-{'Frifol', 'W3bst3r'}
-{'Frifol', 'Cheron'}
-{'Gustaw', 'Mistyczny'}
+{'W3bst3r', 'Frifol'}
+{'Cheron', 'Frifol'}
+{'Mistyczny', 'Gustaw'}
 {'Emile', 'W3bst3r'}
-{'Gustaw', 'Emile'}
-{'Frifol', 'Cheron'}
-{'Mistyczny', 'W3bst3r'}
+{'Emile', 'Gustaw'}
+{'Cheron', 'Frifol'}
+{'W3bst3r', 'Mistyczny'}
 {'Emile', 'W3bst3r'}
-{'WhiteGrayFox', 'Dobrogost'}
+{'Dobrogost', 'WhiteGrayFox'}
 {'Emile', 'W3bst3r'}
-{'Cheron', 'W3bst3r'}
-{'Cheron', 'W3bst3r'}
-{'Frifol', 'W3bst3r'}
-{'Cheron', 'W3bst3r'}
-{'Cheron', 'W3bst3r'}
-{'WhiteGrayFox', 'Emile'}
-{'Gustaw', 'W3bst3r'}
-{'Gustaw', 'Emile'}
+{'W3bst3r', 'Cheron'}
+{'W3bst3r', 'Cheron'}
+{'W3bst3r', 'Frifol'}
+{'W3bst3r', 'Cheron'}
+{'W3bst3r', 'Cheron'}
+{'Emile', 'WhiteGrayFox'}
+{'W3bst3r', 'Gustaw'}
+{'Emile', 'Gustaw'}
 {'Emile', 'W3bst3r'}
-{'Gustaw', 'Emile'}
+{'Emile', 'Gustaw'}
 1. Emile, Gustaw - 8
 2. Emile, WhiteGrayFox - 6
 3. Dobrogost, Emile - 5
@@ -3124,25 +3208,25 @@ Avg. :46.127272727272725
 
 ## ---Jakie teamy były grane na 3v3?---
 
-{'Frifol', 'Dobrogost', 'Emile'}
-{'Dobrogost', 'Emile', 'W3bst3r'}
-{'Gustaw', 'Mistyczny', 'Frifol'}
-{'Gustaw', 'Frifol', 'W3bst3r'}
-{'WhiteGrayFox', 'Dobrogost', 'Cheron'}
-{'Gustaw', 'Frifol', 'Emile'}
-{'WhiteGrayFox', 'Emile', 'W3bst3r'}
-{'Gustaw', 'Dobrogost', 'Emile'}
-{'Gustaw', 'Mistyczny', 'W3bst3r'}
-{'Gustaw', 'Cheron', 'Emile'}
-{'Gustaw', 'Mistyczny', 'Blyatorusin'}
-{'WhiteGrayFox', 'Dobrogost', 'W3bst3r'}
-{'Frifol', 'Mistyczny', 'Cheron'}
-{'Gustaw', 'Dobrogost', 'Cheron'}
-{'WhiteGrayFox', 'Dobrogost', 'Emile'}
-{'Gustaw', 'Cheron', 'Blyatorusin'}
-{'Frifol', 'Mistyczny', 'Blyatorusin'}
-{'Gustaw', 'Mistyczny', 'W3bst3r'}
-{'Gustaw', 'Frifol', 'W3bst3r'}
+{'Emile', 'Dobrogost', 'Frifol'}
+{'Dobrogost', 'W3bst3r', 'Emile'}
+{'Mistyczny', 'Gustaw', 'Frifol'}
+{'W3bst3r', 'Gustaw', 'Frifol'}
+{'Dobrogost', 'Cheron', 'WhiteGrayFox'}
+{'Emile', 'Gustaw', 'Frifol'}
+{'Emile', 'W3bst3r', 'WhiteGrayFox'}
+{'Emile', 'Gustaw', 'Dobrogost'}
+{'W3bst3r', 'Mistyczny', 'Gustaw'}
+{'Emile', 'Cheron', 'Gustaw'}
+{'Gustaw', 'Blyatorusin', 'Mistyczny'}
+{'Dobrogost', 'W3bst3r', 'WhiteGrayFox'}
+{'Cheron', 'Mistyczny', 'Frifol'}
+{'Dobrogost', 'Cheron', 'Gustaw'}
+{'Dobrogost', 'Emile', 'WhiteGrayFox'}
+{'Cheron', 'Blyatorusin', 'Gustaw'}
+{'Blyatorusin', 'Mistyczny', 'Frifol'}
+{'W3bst3r', 'Mistyczny', 'Gustaw'}
+{'W3bst3r', 'Gustaw', 'Frifol'}
 1. Blyatorusin, Cheron, Gustaw - 3
 2. Dobrogost, Emile, WhiteGrayFox - 3
 3. Blyatorusin, W3bst3r, WhiteGrayFox - 2

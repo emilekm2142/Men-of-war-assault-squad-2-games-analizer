@@ -36,6 +36,17 @@ class GameDatasetAnalizer:
             for player in game.metadata.players:
                 counts[player.name] += 1
         return counts
+    def get_games_by_faction_by_player(self):
+        counts = defaultdict(lambda: defaultdict(lambda: 0))
+        for game in self.games:
+            for player in game.metadata.players:
+                counts[player.name][player.faction] += 1
+        #convert to dict
+        counts = dict(counts)
+        #convert inner dicts to dicts
+        for key in counts:
+            counts[key] = dict(counts[key])
+        return counts
     def get_games_count_by_faction(self):
         counts = defaultdict(lambda: 0)
         for game in self.games:

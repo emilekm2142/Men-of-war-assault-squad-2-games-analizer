@@ -5,7 +5,7 @@ from QMLib import *
 from SSlib import *
 from ReplayZipReader import get_replay_content, get_all_replays_paths
 from GameDatasetAnalizer import GameDatasetAnalizer
-
+import json
 
 # cheron_game = Game("replays/replay5_SS.zip")
 #
@@ -40,7 +40,8 @@ print_header("Ile gier było grane?")
 analizer.print_generic_collection(analizer.generic_sorted(analizer.get_games_count_by_player()))
 print_header("Jakie armie były grane?")
 analizer.print_generic_collection(analizer.generic_sorted(analizer.get_games_count_by_faction()))
-
+print_header("Kto grał jakim krajem?")
+print(json.dumps(analizer.get_games_by_faction_by_player(), indent=4, ensure_ascii=False))
 print_header("Co zabijało pojazdy?")
 report = analizer.get_units_report()
 deads_report = analizer.get_units_deads()
