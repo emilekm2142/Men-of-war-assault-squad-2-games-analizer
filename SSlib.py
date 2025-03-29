@@ -5,6 +5,11 @@ from typing import List
 
 @dataclass
 class Player:
+    def __post_init__(self):
+        name_mapping = {"Grawr":"Dobrogost", "Skurvysyn":"Dobrogost"}
+        if self.name in name_mapping:
+            self.name = name_mapping[self.name]
+
     def __str__(self):
         return self.name
     name:str
