@@ -10,10 +10,38 @@ ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
-# Wyniki na dzień: 2025-03-29 12:27:25
+# Wyniki na dzień: 2025-03-29 12:30:37
+
+## Kieyd było grane??
+
 [(datetime.datetime(2024, 9, 25, 0, 1, 35), 2963), (datetime.datetime(2024, 9, 25, 18, 12, 57), 4844), (datetime.datetime(2024, 9, 25, 19, 16, 21), 3495), (datetime.datetime(2024, 9, 25, 20, 15, 14), 3105), (datetime.datetime(2024, 9, 25, 22, 49, 27), 4027), (datetime.datetime(2024, 9, 26, 16, 14, 45), 3440), (datetime.datetime(2024, 9, 26, 16, 44, 27), 1309), (datetime.datetime(2024, 9, 26, 17, 34, 3), 2573), (datetime.datetime(2024, 9, 26, 19, 5, 28), 4316), (datetime.datetime(2024, 9, 26, 22, 57, 41), 2532), (datetime.datetime(2024, 9, 27, 18, 35, 17), 2133), (datetime.datetime(2024, 9, 28, 1, 27, 33), 2250), (datetime.datetime(2024, 9, 28, 2, 24, 12), 2518), (datetime.datetime(2024, 9, 29, 0, 44, 57), 3726), (datetime.datetime(2024, 10, 3, 20, 45, 6), 4788), (datetime.datetime(2024, 10, 3, 22, 19, 5), 4131), (datetime.datetime(2024, 10, 3, 23, 6, 13), 1978), (datetime.datetime(2024, 10, 5, 23, 20, 54), 3076), (datetime.datetime(2024, 10, 6, 19, 10, 37), 2255), (datetime.datetime(2024, 10, 6, 19, 43, 59), 1280), (datetime.datetime(2024, 10, 6, 20, 45, 44), 2847), (datetime.datetime(2024, 10, 10, 23, 52, 33), 3859), (datetime.datetime(2024, 11, 2, 0, 25, 51), 2866), (datetime.datetime(2024, 11, 6, 22, 46, 50), 2524), (datetime.datetime(2024, 11, 6, 23, 54, 39), 3247), (datetime.datetime(2024, 11, 7, 20, 10, 58), 2734), (datetime.datetime(2024, 11, 16, 14, 2, 6), 1492), (datetime.datetime(2024, 11, 17, 16, 0, 9), 3399), (datetime.datetime(2024, 11, 17, 16, 45, 57), 1847), (datetime.datetime(2024, 11, 22, 19, 0, 27), 2230), (datetime.datetime(2025, 2, 27, 13, 23, 25), 1614), (datetime.datetime(2025, 2, 27, 23, 48, 4), 2202), (datetime.datetime(2025, 2, 28, 0, 28, 58), 1632), (datetime.datetime(2025, 2, 28, 14, 1, 49), 2740), (datetime.datetime(2025, 2, 28, 14, 53, 39), 2690), (datetime.datetime(2025, 3, 3, 22, 51, 51), 4295), (datetime.datetime(2025, 3, 4, 21, 52, 38), 2126), (datetime.datetime(2025, 3, 5, 22, 37, 54), 2774), (datetime.datetime(2025, 3, 5, 23, 54, 15), 1578), (datetime.datetime(2025, 3, 6, 20, 46, 50), 3863), (datetime.datetime(2025, 3, 7, 1, 0, 55), 3007), (datetime.datetime(2025, 3, 9, 15, 26, 25), 1938), (datetime.datetime(2025, 3, 13, 12, 12, 24), 2035), (datetime.datetime(2025, 3, 13, 13, 25, 55), 3833), (datetime.datetime(2025, 3, 15, 13, 3, 2), 2092), (datetime.datetime(2025, 3, 16, 22, 18, 18), 2008), (datetime.datetime(2025, 3, 16, 23, 51, 25), 3612), (datetime.datetime(2025, 3, 17, 21, 11, 38), 2870), (datetime.datetime(2025, 3, 23, 15, 38, 36), 3206), (datetime.datetime(2025, 3, 23, 21, 24, 12), 2957), (datetime.datetime(2025, 3, 24, 23, 41, 11), 2092), (datetime.datetime(2025, 3, 25, 22, 50, 51), 2007), (datetime.datetime(2025, 3, 26, 19, 58, 45), 3380), (datetime.datetime(2025, 3, 26, 23, 12, 13), 2305), (datetime.datetime(2025, 3, 27, 23, 35, 52), 3359)]
-defaultdict(<function GameDatasetAnalizer.get_games_count_by_player.<locals>.<lambda> at 0x000001F2A78E9300>, {'Frifol': 27, 'Emile': 53, 'Dobrogost': 32, 'Mistyczny': 18, 'WhiteGrayFox': 25, 'Gustaw': 40, 'Blyatorusin': 18, 'W3bst3r': 30, 'Cheron': 26, 'Sliwek': 1})
-defaultdict(<function GameDatasetAnalizer.get_games_count_by_faction.<locals>.<lambda> at 0x000001F2A78E9300>, {'ger': 30, 'jap': 33, 'rus_guard': 27, 'ger2': 18, 'rus': 40, 'eng': 26, 'usa': 23, 'ger_ss': 73})
+
+## Ile gier było grane?
+
+1. Emile - 53
+2. Gustaw - 40
+3. Dobrogost - 32
+4. W3bst3r - 30
+5. Frifol - 27
+6. Cheron - 26
+7. WhiteGrayFox - 25
+8. Mistyczny - 18
+9. Blyatorusin - 18
+10. Sliwek - 1
+
+## Jakie armie były grane?
+
+1. ger_ss - 73
+2. rus - 40
+3. jap - 33
+4. ger - 30
+5. rus_guard - 27
+6. eng - 26
+7. usa - 23
+8. ger2 - 18
+
+## Co zabijało pojazdy?
+
 0. Jagdpanzer 38(t) Hetzer - 98
 1. 75mm Type 4 'Elite' - 59
 2. Jagdpanzer V Jagdpanther [Veteran] - 38
@@ -2643,8 +2671,8 @@ replays\replay5_SS.zip
 6. Frifol - 4.851851851851851
 7. Gustaw - 4.6
 8. W3bst3r - 4.366666666666666
-9. Dobrogost - 0
-10. Sliwek - 0
+9. Sliwek - 0
+10. Dobrogost - 0
 
 ## ----Liczba gier---
 
