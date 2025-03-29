@@ -51,12 +51,7 @@ sorted_deads = sorted(deads_report.items(), key=lambda item: item[1], reverse=Tr
 for i,entry in enumerate(sorted_report_vehicles):
     print(f"{i}. {entry[0]} - {entry[1]['vehicles']}")
 print_header("INFANTRY KILLS")
-j=0
-for i,entry in enumerate(sorted_report_infantry):
-    if is_infantry(entry[0]): continue
-    j+=1
-    print(f"{j}. {entry[0]} - {entry[1]['infantry']} ({entry[1]['suicide']} suicide chargers)")
-
+analizer.print_generic_collection(analizer.generic_sorted(analizer.get_infantry_kills()))
 print_header("-------DEADS---------")
 for i,entry in enumerate(sorted_deads):
     print(f"{i+1}. {entry[0]} - {entry[1]}")
@@ -107,8 +102,7 @@ vehicles_emile = analizer.generic_sorted(analizer.vehicle_types_dead_by_player("
 analizer.print_generic_collection(vehicles_emile)
 
 
-print_header("---Games with Cheron---")
-print(analizer.get_games_with_player("Cheron")[0].path)
+
 
 print_header("----Martwe pojazdy na grę na gracza----")
 analizer.print_generic_collection(analizer.generic_sorted(analizer.lost_vehicles_per_game()))

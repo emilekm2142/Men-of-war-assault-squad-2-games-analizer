@@ -55,6 +55,7 @@ class GameDatasetAnalizer:
                 else:
                     team_b.add(player.name)
             #generate ordered list of players from each team and build a string
+            print(team_a)
             team_a = sorted(list(team_a))
             team_b = sorted(list(team_b))
             team_a_str = ', '.join(team_a)
@@ -95,7 +96,8 @@ class GameDatasetAnalizer:
                     results[unit] += amount
             return results
         return combined
-
+    def get_infantry_kills(self):
+        return self.generic_combiner(0, lambda game: game.game_data.infantry_kills())()
     def get_units_deads(self):
         return self.generic_combiner(0, lambda game: game.game_data.get_units_deads())()
 

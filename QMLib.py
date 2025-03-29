@@ -6,6 +6,9 @@ from dataclasses import dataclass
 from datetime import datetime
 from typing import List
 
+from SSlib import Player
+
+
 def get_modified_date(file_path):
     # Get the last modified time
     modified_time = os.path.getmtime(file_path)
@@ -53,7 +56,7 @@ def is_support(name):
             return True
     return False
 def is_infantry(name):
-    return not is_support(name) and not is_vehicle(name) and  "crew" not in name
+    return "stg" in name.lower() or (not is_support(name) and not is_vehicle(name) and  "crew" not in name)
 
 @dataclass
 class KillLogEntry:
@@ -129,6 +132,12 @@ class GameData:
         for entry in self.kill_log:
             results[entry.victim]+=1
         return results
+    def infantry_kills(self):
+        results = defaultdict(lambda: 0)
+        for entry in self.kill_log:
+            if entry.is_victim_infantry():
+                results[entry.killer]+=1
+        return results
     def report_for_unit(self,name):
         results = {'vehicles':0, 'support':0, "infantry":0, "other":0, "suicide":0}
         for entry in self.kill_log:
@@ -173,7 +182,7 @@ class GameData:
             victim = re.sub(r"\\.*","", victim_raw)
             if victim=="":
                 input()
-            kill_log_extracted.append([player1.strip(), killer.strip(), player2.strip(), victim.strip()])
+            kill_log_extracted.append([Player.unify_names(player1.strip()), killer.strip(), Player.unify_names(player2.strip()), victim.strip()])
             # if 'Cheron' in log_item:
             #     print(log_item)
             #     print(kill_log_extracted[-1])

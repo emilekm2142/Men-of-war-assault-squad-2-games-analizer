@@ -5,10 +5,14 @@ from typing import List
 
 @dataclass
 class Player:
-    def __post_init__(self):
+    @classmethod
+    def unify_names(cls, name)->str:
         name_mapping = {"Grawr":"Dobrogost", "Skurvysyn":"Dobrogost"}
-        if self.name in name_mapping:
-            self.name = name_mapping[self.name]
+        if name in name_mapping:
+            return name_mapping[name]
+        return name
+    def __post_init__(self):
+       self.name = Player.unify_names(self.name)
 
     def __str__(self):
         return self.name

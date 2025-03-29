@@ -10,7 +10,7 @@ ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', '150mm Type 97 mortar', 'Mistyczny', 'J']
 ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
-# Wyniki na dzień: 2025-03-29 12:30:37
+# Wyniki na dzień: 2025-03-29 14:35:19
 
 ## Kieyd było grane??
 
@@ -437,188 +437,389 @@ ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
 
 ## INFANTRY KILLS
 
-1. SVT-40 - 652 (34 suicide chargers)
-2. MG42 Lafette - 543 (46 suicide chargers)
-3. M5A1 - 518 (8 suicide chargers)
-4. SdKfz 251/1 - 383 (16 suicide chargers)
-5. T-34-76 mod. 1943 - 328 (19 suicide chargers)
-6. 150mm Type 97 mortar - 292 (14 suicide chargers)
-7. 12 cm sGrW 42 - 278 (13 suicide chargers)
-8. Ha-Go - 268 (2 suicide chargers)
-9. SG-43 Goryunov - 242 (14 suicide chargers)
-10. 15cm Nebelwerfer 41 - 242 (9 suicide chargers)
-11. 7.5cm Le.IG 18 - 223 (7 suicide chargers)
-12. Sturmpanzer IV 'Brummbxc3xa4r' Late production - 199 (5 suicide chargers)
-13. DT-29 - 184 (12 suicide chargers)
-14. Chi-Ha 120 - 160 (14 suicide chargers)
-15. 2cm FlaK 38 - 150 (6 suicide chargers)
-16. PzKpfw IV Ausf. J - 143 (10 suicide chargers)
-17. 75mm Type 4 'Elite' - 140 (1 suicide chargers)
-18. IS-1 - 140 (6 suicide chargers)
-19. T-34-85 mod. 1944 - 129 (2 suicide chargers)
-20. PzKpfw II Ausf. L 'Luchs' - 120 (7 suicide chargers)
-21. Sten Mk.V - 117 (5 suicide chargers)
-22. PzKpfw III Ausf. N - 116 (1 suicide chargers)
-23. T-70 [Guards] - 110 (2 suicide chargers)
-24. SdKfz 250/1 - 101 (24 suicide chargers)
-25. Sten Mk.II - 98 (11 suicide chargers)
-26. T-34-85 'Elite' [Guards] - 98 (0 suicide chargers)
-27. StuG III Ausf.G - 95 (5 suicide chargers)
-28. Churchill Kangaroo - 94 (22 suicide chargers)
-29. 15cm sFH 18 - 92 (5 suicide chargers)
-30. 155mm gun motor carriage M12 [Veteran] - 89 (10 suicide chargers)
-31. Churchill Crocodile - 86 (4 suicide chargers)
-32. Chi-Ri - 82 (5 suicide chargers)
-33. IS-2 mod. 1943 [Guards] - 78 (0 suicide chargers)
-34. ML 3-inch Mortar Mk.II - 77 (0 suicide chargers)
-35. Crusader Mk.III - 76 (0 suicide chargers)
-36. PzKpfw III Ausf. M - 76 (0 suicide chargers)
-37. KV-2 - 75 (0 suicide chargers)
-38. PzKpfw I Ausf.B - 73 (6 suicide chargers)
-39. KV-85 [Guards] - 72 (14 suicide chargers)
-40. 5cm Grw 36 - 69 (5 suicide chargers)
-41. Type 93 Armored Car - 68 (0 suicide chargers)
-42. PzKpfw VI Tiger Ausf.E [Veteran] - 68 (6 suicide chargers)
-43. 20mm Type 2 - 67 (11 suicide chargers)
-44. SVT-40 scoped - 64 (0 suicide chargers)
-45. Humber Mk.II - 60 (0 suicide chargers)
-46. T-34-85 [Veteran] - 59 (1 suicide chargers)
-47. 10.5cm le. FH 18 M - 58 (0 suicide chargers)
-48. Churchill Mk.VIII CS - 57 (0 suicide chargers)
-49. Ho-I - 57 (1 suicide chargers)
-50. IS-1 [Guards] - 57 (1 suicide chargers)
-51. PzKpfw 747(r) mod.1944 - 54 (2 suicide chargers)
-52. PzKpfw VI Tiger Ausf. H - 54 (0 suicide chargers)
-53. T-70 - 52 (4 suicide chargers)
-54. 7.5cm PaK 40 - 51 (0 suicide chargers)
-55. ZIS-2 - 51 (0 suicide chargers)
-56. Pzkpfw VI Tiger Ausf. E [Veteran] - 48 (0 suicide chargers)
-57. Universal carrier 'Wasp' - 48 (5 suicide chargers)
-58. SdKfz 222 - 47 (1 suicide chargers)
-59. 12 cm SGrW 42 [Veteran] - 43 (0 suicide chargers)
-60. StuG III Ausf.G [Veteran] - 43 (0 suicide chargers)
-61. 8 cm GrW 34 - 43 (0 suicide chargers)
-62. KV-1s - 42 (0 suicide chargers)
-63. KV-8 - 40 (4 suicide chargers)
-64. Ho-Ha - 39 (2 suicide chargers)
-65. Centurion Mk.II - 39 (0 suicide chargers)
-66. 3.7cm FlaK 36 - 38 (3 suicide chargers)
-67. T-34-85 [Guards] - 38 (4 suicide chargers)
-68. Churchill AVRE - 37 (4 suicide chargers)
-69. Ha-To - 36 (2 suicide chargers)
-70. 12.8cm PaK 44 - 36 (0 suicide chargers)
-71. Chi-Nu - 35 (0 suicide chargers)
-72. SdKfz 234 Puma - 35 (0 suicide chargers)
-73. M1A1 Carbine - 35 (3 suicide chargers)
-74. KV-1s [Guards] - 34 (0 suicide chargers)
-75. PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' [Veteran] - 34 (0 suicide chargers)
-76. Cruiser Mk.VIII Cromwell VI CS - 34 (3 suicide chargers)
-77. KV-1 [Guards] - 33 (0 suicide chargers)
-78. 5cm PaK 38 - 33 (3 suicide chargers)
-79. T-38 - 32 (0 suicide chargers)
-80. T-60 - 32 (0 suicide chargers)
-81. Flammpanzer 38 - 32 (0 suicide chargers)
-82. PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' [Ace] - 32 (1 suicide chargers)
-83. Staghound Mk.III - 31 (0 suicide chargers)
-84. 28/32cm Nebelwerfer 41 - 31 (15 suicide chargers)
-85. IS-2 mod. 1944 'Elite' [Guards] - 31 (0 suicide chargers)
-86. SdKfz 223 - 30 (2 suicide chargers)
-87. PzKpfw V Panther Ausf. G - 30 (0 suicide chargers)
-88. PzKpfw V Panther Ausf. G [Veteran] - 27 (5 suicide chargers)
-89. Churchill Mk.VII - 27 (3 suicide chargers)
-90. Sd.Kfz. 251/16 flammpanzerwagen - 27 (1 suicide chargers)
-91. ZiS-3 - 26 (0 suicide chargers)
-92. Boyes .55 Mk.I - 26 (4 suicide chargers)
-93. PzKpfw VI Tiger Ausf. E - 26 (0 suicide chargers)
-94. IS-2 mod. 1944 - 25 (0 suicide chargers)
-95. PzKpfw 756(r) - 24 (8 suicide chargers)
-96. Flammpanzer III - 24 (0 suicide chargers)
-97. 150mm Type 96 - 24 (0 suicide chargers)
-98. PzKpfw IV Ausf. J [Veteran] - 24 (0 suicide chargers)
-99. 21cm Morser 18 - 23 (0 suicide chargers)
-100. M1 Carbine - 22 (1 suicide chargers)
-101. Vickers .303 Mk.IV - 21 (0 suicide chargers)
-102. Staghound Mk.I - 21 (0 suicide chargers)
-103. 200mm Type 4 - 20 (0 suicide chargers)
-104. 76mm GMC M18 'Hellcat' - 20 (0 suicide chargers)
-105. Ke-Nu - 19 (1 suicide chargers)
-106. 8.8cm PaK 43 - 19 (2 suicide chargers)
-107. 47mm Type 1 - 19 (4 suicide chargers)
-108. M1 81mm mortar - 19 (0 suicide chargers)
-109. Daimler AC Mk.I - 18 (0 suicide chargers)
-110. Matilda Mk.IIA - 18 (0 suicide chargers)
-111. PzKpfw VI Tiger Ausf.B 'Tiger II Production turret' [Veteran] - 18 (5 suicide chargers)
-112. Chi-Ri Ace - 18 (0 suicide chargers)
-113. GAZ AA-4M - 17 (0 suicide chargers)
-114. Oerlikon 20mm - 17 (9 suicide chargers)
-115. PzKpfw V Panther Ausf. A - 17 (0 suicide chargers)
-116. P.I.A.T. Mk.I - 16 (0 suicide chargers)
-117. IS-2 mod. 1943 - 16 (2 suicide chargers)
-118. 155mm gun motor carriage M12 - 16 (0 suicide chargers)
-119. Panzerjxc3xa4ger Tiger Ausf. B 'Jagdtiger' [Veteran] - 16 (0 suicide chargers)
-120. PzKpfw V Panther Ausf.G [Veteran] - 15 (0 suicide chargers)
-121. PzKpfw IV Ausf. H [Veteran] - 15 (0 suicide chargers)
-122. PzKpfw 747(r) mod.1943 - 14 (0 suicide chargers)
-123. 90mm GMC M36 'Slugger' - 14 (0 suicide chargers)
-124. Panzerjxc3xa4ger Tiger (P) 'Elefant' - 13 (0 suicide chargers)
-125. 75mm Type 4 - 13 (0 suicide chargers)
-126. KV-1 - 13 (0 suicide chargers)
-127. 2cm Flakvierling 38 - 12 (0 suicide chargers)
-128. ZIS-2 [Guards] - 12 (0 suicide chargers)
-129. BREN .303 Mk.II - 12 (0 suicide chargers)
-130. SdKfz 234/3 - 11 (0 suicide chargers)
-131. BT-7a - 11 (0 suicide chargers)
-132. PzKpfw III Ausf.J - 10 (0 suicide chargers)
-133. Type 44 Carbine - 9 (1 suicide chargers)
-134. M3 Lee - 9 (0 suicide chargers)
-135. PaK 40 [Veteran] - 8 (0 suicide chargers)
-136. PaK 38 [Veteran] - 8 (0 suicide chargers)
-137. 90mm GMC M36 'Slugger' [Veteran] - 8 (0 suicide chargers)
-138. StuG IV Ausf. G - 8 (0 suicide chargers)
-139. KV-85 - 7 (2 suicide chargers)
-140. MG34 Lafette - 7 (5 suicide chargers)
-141. Chi-To - 7 (0 suicide chargers)
-142. Type 41 75mm Mountain gun - 7 (0 suicide chargers)
-143. 76mm GMC M10 'Wolverine' - 7 (0 suicide chargers)
-144. 8.8cm FlaK 18 - 7 (0 suicide chargers)
-145. Chi-Ha 47 - 7 (0 suicide chargers)
-146. 8.8cm PaK 43 [Veteran] - 6 (0 suicide chargers)
-147. SdKfz 234/4 - 5 (2 suicide chargers)
-148. 8.8cm FlaK 36 - 5 (0 suicide chargers)
-149. PzKpfw IV Ausf. H - 5 (0 suicide chargers)
-150. T-26 - 5 (0 suicide chargers)
-151. Type 5 Ho-Ri 'Production' - 5 (0 suicide chargers)
-152. Chi-He - 4 (0 suicide chargers)
-153. Valentine Mk.III - 4 (0 suicide chargers)
-154. IS-2 mod. 1944 [Guards] - 4 (0 suicide chargers)
-155. GAZ-67B - 4 (0 suicide chargers)
-156. PzKpfw VI Tiger Ausf. E 'Tiger Ace' - 4 (0 suicide chargers)
-157. PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' - 4 (0 suicide chargers)
-158. Ho-Ni 3 - 3 (0 suicide chargers)
-159. Hummel - 3 (0 suicide chargers)
-160. PzKpfw V Panther Ausf. G [Ace] - 3 (0 suicide chargers)
-161. IS-3 - 3 (0 suicide chargers)
-162. TT-30 - 3 (0 suicide chargers)
-163. T48 57mm GMC - 3 (0 suicide chargers)
-164. Type 5 Ho-Ri 'Prototype' - 2 (1 suicide chargers)
-165. Isuzu AA - 2 (0 suicide chargers)
-166. 75mm Type 90 - 2 (0 suicide chargers)
-167. PaK 36 - 2 (0 suicide chargers)
-168. Panzerjxc3xa4ger Tiger Ausf. B 'Jagdtiger' - 2 (0 suicide chargers)
-169. Mk.VII Tetrarch - 2 (0 suicide chargers)
-170. 280-mm BR-5 - 2 (0 suicide chargers)
-171. Universal-1 - 2 (0 suicide chargers)
-172. Opel Blitz 3.6 - 2 (0 suicide chargers)
-173. Churchill Mk.IX - 2 (0 suicide chargers)
-174. ZiS-3 [Guards] - 1 (0 suicide chargers)
-175. Chi-Ha 57 - 1 (0 suicide chargers)
-176. SdKfz 7/2 - 1 (0 suicide chargers)
-177. Infantry ammunition crate (Soviet) - 1 (0 suicide chargers)
-178. T-34-76 mod. 1943 [Guards] - 0 (0 suicide chargers)
-179. PzKpfw VI Tiger Ausf. B 'Tiger II Early turret' - 0 (0 suicide chargers)
-180. SdKfz 303 'Goliath' - 0 (0 suicide chargers)
-181. BT-7 - 0 (0 suicide chargers)
-182. T15 75mm GMC - 0 (0 suicide chargers)
+1. MG 42 - 2963
+2. StG 44 - 2303
+3. explode - 1490
+4. G43 - 907
+5. DP-27 - 790
+6. Karabiner 98k - 736
+7. SVT-40 - 652
+8. ?? - 648
+9. PPSh-41 - 619
+10. Karabiner 98k [Veteran] - 619
+11. M1 Garand - 616
+12. G43 Scope - 590
+13. Type 99 MG - 582
+14. Bren - 570
+15. MG42 Lafette - 543
+16. crush - 537
+17. BM-13-16 Katyusha - 523
+18. M5A1 - 518
+19. DS-39 Degtyaryov - 406
+20. Lee-Enfield Mk.III - 399
+21. SdKfz 251/1 - 383
+22. M3A1 - 379
+23. Type 99 Rifle - 377
+24. PPS-43 - 353
+25. Jagdpanzer 38(t) Hetzer - 348
+26. T-34-76 mod. 1943 - 328
+27. ZB vz.30 - 319
+28. burn - 294
+29. 150mm Type 97 mortar - 292
+30. 12 cm sGrW 42 - 278
+31. Ha-Go - 268
+32. MG 34 - 262
+33. Karabiner 98k sniper - 258
+34. MP 40 - 257
+35. M1918 B.A.R. - 254
+36. Mosin - 250
+37. SG-43 Goryunov - 242
+38. 15cm Nebelwerfer 41 - 242
+39. Type 100-44 SMG bayonet - 238
+40. 7.5cm Le.IG 18 - 223
+41. Karabiner 98k sniper [Veteran] - 206
+42. FG-42 Scoped - 201
+43. Sturmpanzer IV 'Brummbxc3xa4r' Late production - 199
+44. Lee-Enfield Mk.III [Veteran] - 197
+45. PM-38 [Guards] - 196
+46. DT-29 - 184
+47. Type 97 mortar - 182
+48. BM-31-12 - 181
+49. .50 cal M2HB Browning 1917 tripod - 172
+50. Type 100 SMG bayonet - 169
+51. M1 Garand with M7 Grenade launcher - 166
+52. Mosin [Veteran] - 162
+53. Chi-Ha 120 - 160
+54. StG 44 Scoped - 155
+55. MP 41 - 150
+56. 2cm FlaK 38 - 150
+57. PzKpfw IV Ausf. J - 143
+58. 75mm Type 4 'Elite' - 140
+59. IS-1 - 140
+60. T-34-85 mod. 1944 - 129
+61. Type 14 Nambu - 128
+62. PM-38 - 128
+63. Type 38 Rifle - 125
+64. PzKpfw II Ausf. L 'Luchs' - 120
+65. Sten Mk.V - 117
+66. PzKpfw III Ausf. N - 116
+67. M-43 - 116
+68. T-70 [Guards] - 110
+69. Type 100-44 SMG - 105
+70. Land Mattress - 105
+71. SdKfz 250/1 - 101
+72. Type 99 Rifle bayonet - 99
+73. Sten Mk.II - 98
+74. T-34-85 'Elite' [Guards] - 98
+75. Sd.Kfz. 250/9 - 97
+76. StuG III Ausf.G - 95
+77. Churchill Kangaroo - 94
+78. 15cm sFH 18 - 92
+79. Karabiner 98k Gewehrgranatgerat - 92
+80. M4A3 Calliope - 92
+81. ISU-152 - 90
+82. 155mm gun motor carriage M12 [Veteran] - 89
+83. BM-37 - 88
+84. BA-64 - 87
+85. Churchill Crocodile - 86
+86. Pzb39 - 85
+87. Chi-Ri - 82
+88. IS-2 mod. 1943 [Guards] - 78
+89. ML 3-inch Mortar Mk.II - 77
+90. Crusader Mk.III - 76
+91. PzKpfw III Ausf. M - 76
+92. Type 2 rifle - 75
+93. KV-2 - 75
+94. M4A3E8(76)W Sherman - 75
+95. Panzerschreck - 75
+96. Jagdpanzer V Jagdpanther [Veteran] - 75
+97. M26 Pershing [Veteran] - 75
+98. PzKpfw I Ausf.B - 73
+99. KV-85 [Guards] - 72
+100. Jagdpanzer IV L/70 [Veteran] - 71
+101. D1 - 70
+102. Sd.Kfz. 251/1 - 70
+103. 5cm Grw 36 - 69
+104. Type 93 Armored Car - 68
+105. PzKpfw VI Tiger Ausf.E [Veteran] - 68
+106. 20mm Type 2 - 67
+107. M1941 Johnson LMG - 66
+108. Sd.Kfz. 250/1 - 65
+109. SVT-40 scoped - 64
+110. SS-D - 62
+111. M1903A4 sniper - 62
+112. Humber Mk.II - 60
+113. Sherman VC Firefly Tulip [Veteran] - 60
+114. T-34-85 [Veteran] - 59
+115. 10.5cm le. FH 18 M - 58
+116. .50 cal M2HB - 57
+117. Churchill Mk.VIII CS - 57
+118. Ho-I - 57
+119. IS-1 [Guards] - 57
+120. .50 cal M2HB Browning M2 tripod - 56
+121. PzKpfw 747(r) mod.1944 - 54
+122. PzKpfw VI Tiger Ausf. H - 54
+123. T-70 - 52
+124. 7.5cm PaK 40 - 51
+125. ZIS-2 - 51
+126. Thompson - 51
+127. Dodge WC-55 - 51
+128. .30 cal M1919 A6 - 51
+129. sFH 18 - 49
+130. Schweres Wurfgerxc3xa4t 41 - 48
+131. Sd.Kfz 251/1 Wurfrahmen 40 'Stuka zu fuss' - 48
+132. Pzkpfw VI Tiger Ausf. E [Veteran] - 48
+133. Universal carrier 'Wasp' - 48
+134. Type89 Grenade Discharger - 47
+135. SdKfz 222 - 47
+136. Panzerfaust 100 - 45
+137. Type 100 SMG - 43
+138. 12 cm SGrW 42 [Veteran] - 43
+139. StuG III Ausf.G [Veteran] - 43
+140. 8 cm GrW 34 - 43
+141. KV-1s - 42
+142. Panzerfaust 60 - 41
+143. Panzerfaust 30 - 41
+144. KV-8 - 40
+145. Kubel VW82 'MG-42' - 40
+146. Ho-Ha - 39
+147. Centurion Mk.II - 39
+148. EM 2 sniper - 38
+149. 3.7cm FlaK 36 - 38
+150. M8 Greyhound - 38
+151. Jagdpanzer 38(t) Hetzer [Veteran] - 38
+152. T-34-85 [Guards] - 38
+153. Walther - 37
+154. Churchill AVRE - 37
+155. Ha-To - 36
+156. 12.8cm PaK 44 - 36
+157. Comet I (A34) - 36
+158. M4A3E2(76)W Jumbo - 36
+159. Chi-Nu - 35
+160. ZB vs.53 tripod - 35
+161. M1A1 Carbine - 35
+162. M7 Priest - 35
+163. SdKfz 234 Puma - 35
+164. StuIG 33B - 35
+165. KV-1s [Guards] - 34
+166. Cruiser Mk.VIII Cromwell VI CS - 34
+167. PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' [Veteran] - 34
+168. KV-1 [Guards] - 33
+169. 5cm PaK 38 - 33
+170. M8 - 33
+171. T-38 - 32
+172. T-60 - 32
+173. Flakpanzer IV 'Wirbelwind' - 32
+174. Flammpanzer 38 - 32
+175. PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' [Ace] - 32
+176. Staghound Mk.III - 31
+177. 28/32cm Nebelwerfer 41 - 31
+178. IS-2 mod. 1944 'Elite' [Guards] - 31
+179. SdKfz 223 - 30
+180. Panzerwerfer - 30
+181. PzKpfw V Panther Ausf. G - 30
+182. Bren carrier - 29
+183. Mosin sniper - 29
+184. Type 4 RPG - 28
+185. PzKpfw V Panther Ausf. G [Veteran] - 27
+186. Sherman VC Firefly 'Elite gunner' - 27
+187. SU-100 - 27
+188. Churchill Mk.VII - 27
+189. Sd.Kfz. 251/16 flammpanzerwagen - 27
+190. ZiS-3 - 26
+191. StuH 42 - 26
+192. Boyes .55 Mk.I - 26
+193. PzKpfw VI Tiger Ausf. E - 26
+194. M4A3 Sherman - 26
+195. Type 38 Rifle bayonet - 25
+196. IS-2 mod. 1944 - 25
+197. M3A1 Scout car - 25
+198. PzKpfw 756(r) - 24
+199. Flammpanzer III - 24
+200. 150mm Type 96 - 24
+201. FG-42 - 24
+202. PzKpfw IV Ausf. J [Veteran] - 24
+203. EM-3 rifle grenade - 23
+204. 21cm Morser 18 - 23
+205. Comet I (A34) 'Elite gunner' - 23
+206. Type 92 HMG - 22
+207. Mosin sniper [Veteran] - 22
+208. M1 Carbine - 22
+209. Sd.Kfz. 231 - 22
+210. MP 3008 - 21
+211. Vickers .303 Mk.IV - 21
+212. Staghound Mk.I - 21
+213. Black Prince - 21
+214. M-30 - 21
+215. 200mm Type 4 - 20
+216. 76mm GMC M18 'Hellcat' - 20
+217. Ke-Nu - 19
+218. 8.8cm PaK 43 - 19
+219. 47mm Type 1 - 19
+220. M8 Scott - 19
+221. Jagdpanzer IV L/70 - 19
+222. M1 81mm mortar - 19
+223. Daimler AC Mk.I - 18
+224. Matilda Mk.IIA - 18
+225. PzKpfw VI Tiger Ausf.B 'Tiger II Production turret' [Veteran] - 18
+226. M50 Reising - 18
+227. M1941 Johnson Rifle - 18
+228. Chi-Ri Ace - 18
+229. M26 E4 'Super Pershing' - 18
+230. Type 97 AT-Rifle - 17
+231. GAZ AA-4M - 17
+232. Oerlikon 20mm - 17
+233. Sd.Kfz. 251/10 - 17
+234. Mk I Bishop - 17
+235. PzKpfw V Panther Ausf. A - 17
+236. 14.5 PTRS - 16
+237. P.I.A.T. Mk.I - 16
+238. IS-2 mod. 1943 - 16
+239. 14.5 PTRD - 16
+240. QF 25-pdr [Veteran] - 16
+241. 155mm gun motor carriage M12 - 16
+242. Sd.Kfz. 234/1 - 16
+243. Panzerjxc3xa4ger Tiger Ausf. B 'Jagdtiger' [Veteran] - 16
+244. M2 4.2-inch Mortar - 16
+245. QF 17-pdr - 16
+246. PzKpfw V Panther Ausf.G [Veteran] - 15
+247. Type 97 sniper - 15
+248. BL 4.5 inch medium gun - 15
+249. PzKpfw IV Ausf. H [Veteran] - 15
+250. PzKpfw 747(r) mod.1943 - 14
+251. Sd.Kfz. 251/17 - 14
+252. Bazooka M1A1 - 14
+253. M-42 [Guards] - 14
+254. 90mm GMC M36 'Slugger' - 14
+255. Panzerjxc3xa4ger Tiger (P) 'Elefant' - 13
+256. M4A3E8(76)W Sherman 'fury' - 13
+257. 75mm Type 4 - 13
+258. Willys MB .30 cal M1919 - 13
+259. KV-1 - 13
+260. 2cm Flakvierling 38 - 12
+261. BS-3 [Guards] - 12
+262. Nagant - 12
+263. ZIS-2 [Guards] - 12
+264. BREN .303 Mk.II - 12
+265. M4A3R2 Croc - 12
+266. Karl Gerat 'Thor' - 11
+267. SdKfz 234/3 - 11
+268. BT-7a - 11
+269. QF 6-pdr - 10
+270. Mosin sniper [Elite] - 10
+271. DShK wheel-mount - 10
+272. PzKpfw III Ausf.J - 10
+273. Type 44 Carbine - 9
+274. Flakpanzer IV 'Ostwind' - 9
+275. BS-3 - 9
+276. Type 11 MG - 9
+277. BM-8-24 - 9
+278. Sd.Kfz. 251/9 - 9
+279. M3 Lee - 9
+280. PaK 40 [Veteran] - 8
+281. PaK 38 [Veteran] - 8
+282. 90mm GMC M36 'Slugger' [Veteran] - 8
+283. Webley.45 - 8
+284. StuG IV Ausf. G - 8
+285. M16 - 8
+286. Sturmtiger - 8
+287. Jagdpanzer V Jagdpanther - 8
+288. KV-85 - 7
+289. MG34 Lafette - 7
+290. Chi-To - 7
+291. M-42 - 7
+292. Type 41 75mm Mountain gun - 7
+293. Type 96 MG - 7
+294. 76mm GMC M10 'Wolverine' - 7
+295. 8.8cm FlaK 18 - 7
+296. Staghound T17E1 'tulip' - 7
+297. M4A3E2 Jumbo - 7
+298. Chi-Ha 47 - 7
+299. Willys MB .50 cal M2HB - 7
+300. Willys MB - 6
+301. Colt 45 - 6
+302. 8.8cm PaK 43 [Veteran] - 6
+303. Panzerjxc3xa4ger Nashorn - 6
+304. SdKfz 234/4 - 5
+305. 8.8cm FlaK 36 - 5
+306. PzKpfw IV Ausf. H - 5
+307. Jagdpanzer IV L/48 - 5
+308. M20 - 5
+309. T-26 - 5
+310. Type 5 Ho-Ri 'Production' - 5
+311. M26 Pershing - 5
+312. M3 Grant - 5
+313. M24 Chaffee - 5
+314. Wespe - 5
+315. ML20 M1937 - 5
+316. SU-76 - 5
+317. Volkssturmgewehr 5 - 5
+318. M4A2(76)w Sherman 'Emcha' - 4
+319. Type 99 at-rifle grenade - 4
+320. M4A2 Sherman 'Emcha' - 4
+321. AT grenade Type 3 - 4
+322. Achilles 1C 'Elite gunner' - 4
+323. Chi-He - 4
+324. Valentine Mk.III - 4
+325. IS-2 mod. 1944 [Guards] - 4
+326. Panzerjxc3xa4ger Nashorn [Veteran] - 4
+327. Sd.Kfz. 234/3 - 4
+328. M4A1(76)w Sherman - 4
+329. GAZ-67B - 4
+330. PzKpfw VI Tiger Ausf. E 'Tiger Ace' - 4
+331. ISU-122 [Guards] - 4
+332. PzKpfw VI Tiger Ausf. B 'Tiger II Production turret' - 4
+333. Raketenwerfer 43 - 3
+334. Hummel - 3
+335. Achilles 1C - 3
+336. Hafthohlladung AT grenade - 3
+337. Flakpanzer I - 3
+338. M1 AT gun - 3
+339. Ho-Ni 3 - 3
+340. PzKpfw V Panther Ausf. G [Ace] - 3
+341. IS-3 - 3
+342. DShK tripod - 3
+343. Sd.Kfz. 234/4 - 3
+344. TT-30 - 3
+345. T48 57mm GMC - 3
+346. M5 AT gun - 3
+347. Type 5 Ho-Ri 'Prototype' - 2
+348. Isuzu AA - 2
+349. AT grenade RPG-40 - 2
+350. Panzerjxc3xa4ger Tiger Ausf. B 'Jagdtiger' - 2
+351. Crusader AA - 2
+352. M3 AT gun - 2
+353. Mk.VII Tetrarch - 2
+354. 52-K - 2
+355. Faustpatrone 30 - 2
+356. 280-mm BR-5 - 2
+357. Universal-1 - 2
+358. M2A1 L - 2
+359. SU-85 [Guards] - 2
+360. Type 2 SMG - 2
+361. 75mm Type 90 - 2
+362. Opel Blitz 3.6 - 2
+363. PaK 36 - 2
+364. Churchill Mk.IX - 2
+365. ZiS-3 [Guards] - 1
+366. shot - 1
+367. Chi-Ha 57 - 1
+368. SdKfz 7/2 - 1
+369. AT grenade PWM-1 - 1
+370. RP-3 Rocket Airstrike signal gun - 1
+371. Locomotive - 1
+372. AT grenade RPG-43 - 1
+373. M4A3E2(76)W Jumbo [Veteran] - 1
+374. Infantry ammunition crate (Soviet) - 1
+375. Knife - 1
+376. 52-K [Guards] - 1
+377. M24x5 bundle grenade - 1
+378. SU-85 - 1
+379. AP grenade F1 - 1
+380. Sherman IIA - 1
+381. Sd.Kfz. 8 - 1
+382. SU-100 [Guards] - 1
+383. AT grenade N73 - 1
 
 ## -------DEADS---------
 
@@ -2568,7 +2769,7 @@ ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
 
 1. Emile - 1412
 2. W3bst3r - 459
-3. Skurvysyn - 115
+3. Dobrogost - 115
 4. WhiteGrayFox - 94
 5. Gustaw - 72
 6. Blyatorusin - 30
@@ -2578,32 +2779,30 @@ ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
 ## --KTO STRACIŁ NAJWIĘCEJ TANK CREW--
 
 1. Gustaw - 599
-2. Cheron - 377
-3. W3bst3r - 351
-4. Emile - 339
-5. Skurvysyn - 332
+2. Dobrogost - 464
+3. Cheron - 377
+4. W3bst3r - 351
+5. Emile - 339
 6. Frifol - 282
 7. WhiteGrayFox - 237
 8. Mistyczny - 222
-9. Grawr - 132
-10. Blyatorusin - 97
-11. Sliwek - 4
+9. Blyatorusin - 97
+10. Sliwek - 4
 
 ## --KTO STRACIŁ NAJWIĘCEJ POJAZDÓW--
 
 1. Gustaw - 297
 2. Frifol - 204
 3. Emile - 198
-4. W3bst3r - 188
-5. WhiteGrayFox - 136
-6. Skurvysyn - 118
+4. Dobrogost - 194
+5. W3bst3r - 188
+6. WhiteGrayFox - 136
 7. Mistyczny - 108
 8. Cheron - 93
-9. Grawr - 76
-10. Blyatorusin - 72
-11. neutral - 23
-12. Sliwek - 4
-13. enemy - 1
+9. Blyatorusin - 72
+10. neutral - 23
+11. Sliwek - 4
+12. enemy - 1
 
 ## --Jakie pojazdy tracił CHERON--
 
@@ -2644,22 +2843,18 @@ ERROR! NAME TOO SHORT - ['Emile', 'Type 100-44 SMG bayonet', 'Mistyczny', 'J']
 35. PzKpfw III Ausf.  - 1
 36. Churchill Mk.IX - 1
 
-## ---Games with Cheron---
-
-replays\replay5_SS.zip
-
 ## ----Martwe pojazdy na grę na gracza----
 
 1. Frifol - 7.555555555555555
 2. Gustaw - 7.425
 3. W3bst3r - 6.266666666666667
-4. Mistyczny - 6.0
-5. WhiteGrayFox - 5.44
-6. Sliwek - 4.0
+4. Dobrogost - 6.0625
+5. Mistyczny - 6.0
+6. WhiteGrayFox - 5.44
 7. Blyatorusin - 4.0
-8. Emile - 3.7358490566037736
-9. Cheron - 3.576923076923077
-10. Dobrogost - 0
+8. Sliwek - 4.0
+9. Emile - 3.7358490566037736
+10. Cheron - 3.576923076923077
 
 ## ----Zabite pojazdy na grę na gracza----
 
@@ -2668,11 +2863,11 @@ replays\replay5_SS.zip
 3. WhiteGrayFox - 6.6
 4. Mistyczny - 5.444444444444445
 5. Cheron - 5.0769230769230775
-6. Frifol - 4.851851851851851
-7. Gustaw - 4.6
-8. W3bst3r - 4.366666666666666
-9. Sliwek - 0
-10. Dobrogost - 0
+6. Dobrogost - 4.96875
+7. Frifol - 4.851851851851851
+8. Gustaw - 4.6
+9. W3bst3r - 4.366666666666666
+10. Sliwek - 0
 
 ## ----Liczba gier---
 
@@ -2867,6 +3062,39 @@ Avg. :46.127272727272725
 
 ## ---Jakie teamy były grane na 2v2?---
 
+{'Frifol', 'Dobrogost'}
+{'Gustaw', 'WhiteGrayFox'}
+{'WhiteGrayFox', 'Emile'}
+{'Gustaw', 'Emile'}
+{'Gustaw', 'Emile'}
+{'Gustaw', 'Blyatorusin'}
+{'Gustaw', 'Frifol'}
+{'Mistyczny', 'Cheron'}
+{'Gustaw', 'W3bst3r'}
+{'Dobrogost', 'W3bst3r'}
+{'Frifol', 'Emile'}
+{'Emile', 'W3bst3r'}
+{'Gustaw', 'Frifol'}
+{'Frifol', 'W3bst3r'}
+{'Frifol', 'Cheron'}
+{'Gustaw', 'Mistyczny'}
+{'Emile', 'W3bst3r'}
+{'Gustaw', 'Emile'}
+{'Frifol', 'Cheron'}
+{'Mistyczny', 'W3bst3r'}
+{'Emile', 'W3bst3r'}
+{'WhiteGrayFox', 'Dobrogost'}
+{'Emile', 'W3bst3r'}
+{'Cheron', 'W3bst3r'}
+{'Cheron', 'W3bst3r'}
+{'Frifol', 'W3bst3r'}
+{'Cheron', 'W3bst3r'}
+{'Cheron', 'W3bst3r'}
+{'WhiteGrayFox', 'Emile'}
+{'Gustaw', 'W3bst3r'}
+{'Gustaw', 'Emile'}
+{'Emile', 'W3bst3r'}
+{'Gustaw', 'Emile'}
 1. Emile, Gustaw - 8
 2. Emile, WhiteGrayFox - 6
 3. Dobrogost, Emile - 5
@@ -2896,6 +3124,25 @@ Avg. :46.127272727272725
 
 ## ---Jakie teamy były grane na 3v3?---
 
+{'Frifol', 'Dobrogost', 'Emile'}
+{'Dobrogost', 'Emile', 'W3bst3r'}
+{'Gustaw', 'Mistyczny', 'Frifol'}
+{'Gustaw', 'Frifol', 'W3bst3r'}
+{'WhiteGrayFox', 'Dobrogost', 'Cheron'}
+{'Gustaw', 'Frifol', 'Emile'}
+{'WhiteGrayFox', 'Emile', 'W3bst3r'}
+{'Gustaw', 'Dobrogost', 'Emile'}
+{'Gustaw', 'Mistyczny', 'W3bst3r'}
+{'Gustaw', 'Cheron', 'Emile'}
+{'Gustaw', 'Mistyczny', 'Blyatorusin'}
+{'WhiteGrayFox', 'Dobrogost', 'W3bst3r'}
+{'Frifol', 'Mistyczny', 'Cheron'}
+{'Gustaw', 'Dobrogost', 'Cheron'}
+{'WhiteGrayFox', 'Dobrogost', 'Emile'}
+{'Gustaw', 'Cheron', 'Blyatorusin'}
+{'Frifol', 'Mistyczny', 'Blyatorusin'}
+{'Gustaw', 'Mistyczny', 'W3bst3r'}
+{'Gustaw', 'Frifol', 'W3bst3r'}
 1. Blyatorusin, Cheron, Gustaw - 3
 2. Dobrogost, Emile, WhiteGrayFox - 3
 3. Blyatorusin, W3bst3r, WhiteGrayFox - 2
